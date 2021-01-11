@@ -1,4 +1,4 @@
-package ch.fhnw.demo.department
+package ch.fhnw.demo.employee
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

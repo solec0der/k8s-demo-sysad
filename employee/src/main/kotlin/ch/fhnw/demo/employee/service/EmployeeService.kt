@@ -1,10 +1,10 @@
-package ch.fhnw.demo.department.service
+package ch.fhnw.demo.employee.service
 
-import ch.fhnw.demo.department.domain.Employee
-import ch.fhnw.demo.department.domain.EmployeeRepository
-import ch.fhnw.demo.department.dto.EmployeeDTO
-import ch.fhnw.demo.department.dto.EmployeesDTO
-import ch.fhnw.demo.department.service.converter.EmployeeConverter
+import ch.fhnw.demo.employee.domain.Employee
+import ch.fhnw.demo.employee.domain.EmployeeRepository
+import ch.fhnw.demo.employee.dto.EmployeeDTO
+import ch.fhnw.demo.employee.dto.EmployeesDTO
+import ch.fhnw.demo.employee.service.converter.EmployeeConverter
 import org.springframework.stereotype.Service
 
 @Service

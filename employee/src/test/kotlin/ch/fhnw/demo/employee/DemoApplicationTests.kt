@@ -1,4 +1,4 @@
-package ch.fhnw.demo.department
+package ch.fhnw.demo.employee
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

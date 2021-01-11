@@ -1,4 +1,4 @@
-package ch.fhnw.demo.department.domain
+package ch.fhnw.demo.employee.domain
 
 import org.springframework.data.annotation.Id
 import org.springframework.data.mongodb.core.mapping.Document

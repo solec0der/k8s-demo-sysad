@@ -1,7 +1,7 @@
-package ch.fhnw.demo.department.service.converter
+package ch.fhnw.demo.employee.service.converter
 
-import ch.fhnw.demo.department.domain.Employee
-import ch.fhnw.demo.department.dto.EmployeeDTO
+import ch.fhnw.demo.employee.domain.Employee
+import ch.fhnw.demo.employee.dto.EmployeeDTO
 
 object EmployeeConverter {
     fun convertEmployeeToDTO(employee: Employee): EmployeeDTO {

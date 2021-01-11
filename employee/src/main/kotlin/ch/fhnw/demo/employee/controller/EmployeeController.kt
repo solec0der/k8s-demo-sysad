@@ -1,8 +1,8 @@
-package ch.fhnw.demo.department.controller
+package ch.fhnw.demo.employee.controller
 
-import ch.fhnw.demo.department.dto.EmployeeDTO
-import ch.fhnw.demo.department.dto.EmployeesDTO
-import ch.fhnw.demo.department.service.EmployeeService
+import ch.fhnw.demo.employee.dto.EmployeeDTO
+import ch.fhnw.demo.employee.dto.EmployeesDTO
+import ch.fhnw.demo.employee.service.EmployeeService
 import org.slf4j.LoggerFactory
 import org.springframework.web.bind.annotation.*
 import java.net.InetAddress

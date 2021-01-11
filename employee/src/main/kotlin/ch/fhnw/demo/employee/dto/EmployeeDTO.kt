@@ -1,4 +1,4 @@
-package ch.fhnw.demo.department.dto
+package ch.fhnw.demo.employee.dto
 
 data class EmployeeDTO(
         val id: String?,
